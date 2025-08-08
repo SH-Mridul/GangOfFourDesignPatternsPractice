@@ -1,0 +1,14 @@
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Encapsulation\bin\Debug\net9.0\Encapsulation.exe
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Encapsulation\bin\Debug\net9.0\Encapsulation.deps.json
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Encapsulation\bin\Debug\net9.0\Encapsulation.runtimeconfig.json
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Encapsulation\bin\Debug\net9.0\Encapsulation.dll
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Encapsulation\bin\Debug\net9.0\Encapsulation.pdb
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Encapsulation\obj\Debug\net9.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfoInputs.cache
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfo.cs
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Encapsulation\obj\Debug\net9.0\Encapsulation.csproj.CoreCompileInputs.cache
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Encapsulation\obj\Debug\net9.0\Encapsulation.dll
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Encapsulation\obj\Debug\net9.0\refint\Encapsulation.dll
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Encapsulation\obj\Debug\net9.0\Encapsulation.pdb
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Encapsulation\obj\Debug\net9.0\Encapsulation.genruntimeconfig.cache
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Encapsulation\obj\Debug\net9.0\ref\Encapsulation.dll
