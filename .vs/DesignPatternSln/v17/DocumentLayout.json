@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B3A97B3-7D39-4892-8C9A-AC0222FB6914}|Encapsulation\\Encapsulation.csproj|f:\\practicecsharpdesignpattern\\designpatternsln\\encapsulation\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B3A97B3-7D39-4892-8C9A-AC0222FB6914}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4336DB6-F0AB-459C-B91F-4844A92ED679}|Abstraction\\Abstraction.csproj|f:\\practicecsharpdesignpattern\\designpatternsln\\abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4336DB6-F0AB-459C-B91F-4844A92ED679}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B3A97B3-7D39-4892-8C9A-AC0222FB6914}|Encapsulation\\Encapsulation.csproj|f:\\practicecsharpdesignpattern\\designpatternsln\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B3A97B3-7D39-4892-8C9A-AC0222FB6914}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4336DB6-F0AB-459C-B91F-4844A92ED679}|Abstraction\\Abstraction.csproj|f:\\practicecsharpdesignpattern\\designpatternsln\\abstraction\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4336DB6-F0AB-459C-B91F-4844A92ED679}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BankAccount.cs",
-              "DocumentMoniker": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Encapsulation\\BankAccount.cs",
-              "RelativeDocumentMoniker": "Encapsulation\\BankAccount.cs",
-              "ToolTip": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Encapsulation\\BankAccount.cs",
-              "RelativeToolTip": "Encapsulation\\BankAccount.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAuwCMAAAAQAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Abstraction\\Program.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Program.cs",
+              "ToolTip": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Abstraction\\Program.cs",
+              "RelativeToolTip": "Abstraction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T19:41:04.23Z",
+              "WhenOpened": "2025-08-08T20:11:58.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Encapsulation\\Program.cs",
-              "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
-              "ToolTip": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Encapsulation\\Program.cs",
-              "RelativeToolTip": "Encapsulation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Abstraction\\EmailService.cs",
+              "RelativeDocumentMoniker": "Abstraction\\EmailService.cs",
+              "ToolTip": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Abstraction\\EmailService.cs",
+              "RelativeToolTip": "Abstraction\\EmailService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T19:40:38.092Z",
+              "WhenOpened": "2025-08-08T20:05:23.135Z",
               "EditorCaption": ""
             }
           ]

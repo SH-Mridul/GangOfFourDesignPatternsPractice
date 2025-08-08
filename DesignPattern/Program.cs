@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("From here we will learn about design pattern from gang of four book!");
         }
     }
 }

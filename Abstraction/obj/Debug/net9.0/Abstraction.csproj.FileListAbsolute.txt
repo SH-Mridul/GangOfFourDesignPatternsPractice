@@ -1,0 +1,15 @@
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Abstraction\obj\Debug\net9.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Abstraction\obj\Debug\net9.0\Abstraction.AssemblyInfoInputs.cache
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Abstraction\obj\Debug\net9.0\Abstraction.AssemblyInfo.cs
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Abstraction\obj\Debug\net9.0\Abstraction.csproj.CoreCompileInputs.cache
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Abstraction\obj\Debug\net9.0\Abstraction.sourcelink.json
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Abstraction\bin\Debug\net9.0\Abstraction.exe
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Abstraction\bin\Debug\net9.0\Abstraction.deps.json
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Abstraction\bin\Debug\net9.0\Abstraction.runtimeconfig.json
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Abstraction\bin\Debug\net9.0\Abstraction.dll
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Abstraction\bin\Debug\net9.0\Abstraction.pdb
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Abstraction\obj\Debug\net9.0\Abstraction.dll
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Abstraction\obj\Debug\net9.0\refint\Abstraction.dll
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Abstraction\obj\Debug\net9.0\Abstraction.pdb
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Abstraction\obj\Debug\net9.0\Abstraction.genruntimeconfig.cache
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Abstraction\obj\Debug\net9.0\ref\Abstraction.dll

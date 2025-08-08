@@ -1,5 +1,10 @@
 ﻿namespace Encapsulation
 {
+
+    //Encapsulation is the practice of hiding an object's
+    //internal details and exposing only what is necessary
+    //through controlled access.
+
     public class Program
     {
         static void Main(string[] args)
