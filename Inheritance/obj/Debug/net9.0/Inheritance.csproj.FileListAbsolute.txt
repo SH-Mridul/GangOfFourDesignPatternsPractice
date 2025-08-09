@@ -1,0 +1,15 @@
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Inheritance\bin\Debug\net9.0\Inheritance.exe
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Inheritance\bin\Debug\net9.0\Inheritance.deps.json
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Inheritance\bin\Debug\net9.0\Inheritance.runtimeconfig.json
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Inheritance\bin\Debug\net9.0\Inheritance.dll
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Inheritance\bin\Debug\net9.0\Inheritance.pdb
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Inheritance\obj\Debug\net9.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Inheritance\obj\Debug\net9.0\Inheritance.AssemblyInfoInputs.cache
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Inheritance\obj\Debug\net9.0\Inheritance.AssemblyInfo.cs
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Inheritance\obj\Debug\net9.0\Inheritance.csproj.CoreCompileInputs.cache
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Inheritance\obj\Debug\net9.0\Inheritance.sourcelink.json
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Inheritance\obj\Debug\net9.0\Inheritance.dll
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Inheritance\obj\Debug\net9.0\refint\Inheritance.dll
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Inheritance\obj\Debug\net9.0\Inheritance.pdb
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Inheritance\obj\Debug\net9.0\Inheritance.genruntimeconfig.cache
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Inheritance\obj\Debug\net9.0\ref\Inheritance.dll

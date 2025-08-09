@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Abstraction\Abstraction.csproj", "{F4336DB6-F0AB-459C-B91F-4844A92ED679}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{4F3950FC-F1B7-4568-910F-95ED0173F0E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coupling", "Coupling\Coupling.csproj", "{A3A385D7-EBE0-47F7-BF95-14954E4575CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{F4336DB6-F0AB-459C-B91F-4844A92ED679}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4336DB6-F0AB-459C-B91F-4844A92ED679}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4336DB6-F0AB-459C-B91F-4844A92ED679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3950FC-F1B7-4568-910F-95ED0173F0E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3950FC-F1B7-4568-910F-95ED0173F0E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3950FC-F1B7-4568-910F-95ED0173F0E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3950FC-F1B7-4568-910F-95ED0173F0E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A385D7-EBE0-47F7-BF95-14954E4575CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A385D7-EBE0-47F7-BF95-14954E4575CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A385D7-EBE0-47F7-BF95-14954E4575CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A385D7-EBE0-47F7-BF95-14954E4575CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

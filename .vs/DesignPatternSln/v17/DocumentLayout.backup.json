@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4336DB6-F0AB-459C-B91F-4844A92ED679}|Abstraction\\Abstraction.csproj|f:\\practicecsharpdesignpattern\\designpatternsln\\abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4336DB6-F0AB-459C-B91F-4844A92ED679}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3A385D7-EBE0-47F7-BF95-14954E4575CF}|Coupling\\Coupling.csproj|f:\\practicecsharpdesignpattern\\designpatternsln\\coupling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A385D7-EBE0-47F7-BF95-14954E4575CF}|Coupling\\Coupling.csproj|solutionrelative:coupling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4336DB6-F0AB-459C-B91F-4844A92ED679}|Abstraction\\Abstraction.csproj|f:\\practicecsharpdesignpattern\\designpatternsln\\abstraction\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4336DB6-F0AB-459C-B91F-4844A92ED679}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3A385D7-EBE0-47F7-BF95-14954E4575CF}|Coupling\\Coupling.csproj|f:\\practicecsharpdesignpattern\\designpatternsln\\coupling\\smssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A385D7-EBE0-47F7-BF95-14954E4575CF}|Coupling\\Coupling.csproj|solutionrelative:coupling\\smssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A385D7-EBE0-47F7-BF95-14954E4575CF}|Coupling\\Coupling.csproj|f:\\practicecsharpdesignpattern\\designpatternsln\\coupling\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A385D7-EBE0-47F7-BF95-14954E4575CF}|Coupling\\Coupling.csproj|solutionrelative:coupling\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A385D7-EBE0-47F7-BF95-14954E4575CF}|Coupling\\Coupling.csproj|f:\\practicecsharpdesignpattern\\designpatternsln\\coupling\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A385D7-EBE0-47F7-BF95-14954E4575CF}|Coupling\\Coupling.csproj|solutionrelative:coupling\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A385D7-EBE0-47F7-BF95-14954E4575CF}|Coupling\\Coupling.csproj|f:\\practicecsharpdesignpattern\\designpatternsln\\coupling\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A385D7-EBE0-47F7-BF95-14954E4575CF}|Coupling\\Coupling.csproj|solutionrelative:coupling\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +38,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Abstraction\\Program.cs",
-              "RelativeDocumentMoniker": "Abstraction\\Program.cs",
-              "ToolTip": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Abstraction\\Program.cs",
-              "RelativeToolTip": "Abstraction\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SmsSender.cs",
+              "DocumentMoniker": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Coupling\\SmsSender.cs",
+              "RelativeDocumentMoniker": "Coupling\\SmsSender.cs",
+              "ToolTip": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Coupling\\SmsSender.cs",
+              "RelativeToolTip": "Coupling\\SmsSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T20:11:58.1Z",
+              "WhenOpened": "2025-08-09T10:35:50.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Abstraction\\EmailService.cs",
-              "RelativeDocumentMoniker": "Abstraction\\EmailService.cs",
-              "ToolTip": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Abstraction\\EmailService.cs",
-              "RelativeToolTip": "Abstraction\\EmailService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwA8AAAAZAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Coupling\\Order.cs",
+              "RelativeDocumentMoniker": "Coupling\\Order.cs",
+              "ToolTip": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Coupling\\Order.cs",
+              "RelativeToolTip": "Coupling\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T20:05:23.135Z",
+              "WhenOpened": "2025-08-09T10:24:30.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Coupling\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Coupling\\EmailSender.cs",
+              "ToolTip": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Coupling\\EmailSender.cs",
+              "RelativeToolTip": "Coupling\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T10:21:51.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Coupling\\INotificationService.cs",
+              "RelativeDocumentMoniker": "Coupling\\INotificationService.cs",
+              "ToolTip": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Coupling\\INotificationService.cs",
+              "RelativeToolTip": "Coupling\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T10:20:09.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Coupling\\Program.cs",
+              "RelativeDocumentMoniker": "Coupling\\Program.cs",
+              "ToolTip": "F:\\PracticeCSharpDesignPattern\\DesignPatternSln\\Coupling\\Program.cs",
+              "RelativeToolTip": "Coupling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T10:10:55.235Z",
               "EditorCaption": ""
             }
           ]

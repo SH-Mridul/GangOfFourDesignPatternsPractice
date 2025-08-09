@@ -1,0 +1,15 @@
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Coupling\bin\Debug\net9.0\Coupling.exe
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Coupling\bin\Debug\net9.0\Coupling.deps.json
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Coupling\bin\Debug\net9.0\Coupling.runtimeconfig.json
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Coupling\bin\Debug\net9.0\Coupling.dll
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Coupling\bin\Debug\net9.0\Coupling.pdb
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Coupling\obj\Debug\net9.0\Coupling.GeneratedMSBuildEditorConfig.editorconfig
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Coupling\obj\Debug\net9.0\Coupling.AssemblyInfoInputs.cache
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Coupling\obj\Debug\net9.0\Coupling.AssemblyInfo.cs
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Coupling\obj\Debug\net9.0\Coupling.csproj.CoreCompileInputs.cache
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Coupling\obj\Debug\net9.0\Coupling.sourcelink.json
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Coupling\obj\Debug\net9.0\Coupling.dll
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Coupling\obj\Debug\net9.0\refint\Coupling.dll
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Coupling\obj\Debug\net9.0\Coupling.pdb
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Coupling\obj\Debug\net9.0\Coupling.genruntimeconfig.cache
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Coupling\obj\Debug\net9.0\ref\Coupling.dll
