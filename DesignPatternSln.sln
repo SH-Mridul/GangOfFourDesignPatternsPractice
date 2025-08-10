@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coupling", "Coupling\Coupling.csproj", "{A3A385D7-EBE0-47F7-BF95-14954E4575CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composition", "Composition\Composition.csproj", "{211D3CD4-E9CA-4D30-8F5D-BD547F2B1ED1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A3A385D7-EBE0-47F7-BF95-14954E4575CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3A385D7-EBE0-47F7-BF95-14954E4575CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3A385D7-EBE0-47F7-BF95-14954E4575CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{211D3CD4-E9CA-4D30-8F5D-BD547F2B1ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211D3CD4-E9CA-4D30-8F5D-BD547F2B1ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211D3CD4-E9CA-4D30-8F5D-BD547F2B1ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211D3CD4-E9CA-4D30-8F5D-BD547F2B1ED1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

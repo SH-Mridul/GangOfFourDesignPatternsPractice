@@ -1,0 +1,15 @@
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Composition\bin\Debug\net9.0\Composition.exe
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Composition\bin\Debug\net9.0\Composition.deps.json
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Composition\bin\Debug\net9.0\Composition.runtimeconfig.json
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Composition\bin\Debug\net9.0\Composition.dll
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Composition\bin\Debug\net9.0\Composition.pdb
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Composition\obj\Debug\net9.0\Composition.GeneratedMSBuildEditorConfig.editorconfig
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Composition\obj\Debug\net9.0\Composition.AssemblyInfoInputs.cache
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Composition\obj\Debug\net9.0\Composition.AssemblyInfo.cs
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Composition\obj\Debug\net9.0\Composition.csproj.CoreCompileInputs.cache
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Composition\obj\Debug\net9.0\Composition.sourcelink.json
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Composition\obj\Debug\net9.0\Composition.dll
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Composition\obj\Debug\net9.0\refint\Composition.dll
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Composition\obj\Debug\net9.0\Composition.pdb
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Composition\obj\Debug\net9.0\Composition.genruntimeconfig.cache
+F:\PracticeCSharpDesignPattern\DesignPatternSln\Composition\obj\Debug\net9.0\ref\Composition.dll
